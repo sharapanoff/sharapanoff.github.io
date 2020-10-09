@@ -1,0 +1,137 @@
+BODY
+{
+	CURSOR: default;
+    FONT-SIZE: 11px;
+    FONT-FAMILY: Verdana, Tahoma,  Arial, Helvetica,Univers,Zurich BT
+}
+TD.fire
+{
+    FONT-SIZE: 11px;
+    COLOR: #000000;
+    FONT-FAMILY: Verdana, Tahoma,  Arial, Helvetica,Univers,Zurich BT
+}
+P.fire
+{
+    FONT-SIZE: 11px;
+    COLOR: #000000;
+    FONT-FAMILY: Verdana, Tahoma,  Arial, Helvetica,Univers,Zurich BT
+}
+A.fire
+{
+    FONT-SIZE: 15px;
+    COLOR: #ffac09;
+    FONT-FAMILY: Verdana, Tahoma,  Arial, Helvetica,Univers,Zurich BT;
+    TEXT-DECORATION: none
+}
+A.fire:visited
+{
+    FONT-SIZE: 15px;
+    COLOR: #ffac09;
+    FONT-FAMILY: Verdana, Tahoma,  Arial, Helvetica,Univers,Zurich BT;
+    TEXT-DECORATION: none
+}
+A.fire:unknown
+{
+    FONT-SIZE: 15px;
+    COLOR: #ffac09;
+    FONT-FAMILY: Verdana, Tahoma,  Arial, Helvetica,Univers,Zurich BT;
+    TEXT-DECORATION: none
+}
+A.fire:hover
+{
+    FONT-SIZE: 15px;
+    COLOR: #ffd308;
+    FONT-FAMILY: Verdana, Tahoma,  Arial, Helvetica,Univers,Zurich BT;
+    TEXT-DECORATION: underline
+}
+DIV.fire
+{
+    VISIBILITY: hidden;
+    POSITION: absolute
+}
+INPUT.EditBox
+{
+    BORDER-RIGHT: black 1px inset;
+    BORDER-TOP: white 1px inset;
+    FONT-SIZE: 11px;
+    BORDER-LEFT: white 1px inset;
+    COLOR: #000000;
+    BORDER-BOTTOM: black 1px inset;
+    FONT-FAMILY: Verdana, Tahoma,  Arial, Helvetica,Univers,Zurich BT;
+    BACKGROUND-COLOR: #ff8f05
+}
+TEXTAREA.EditBox
+{
+    BORDER-RIGHT: black 1px inset;
+    BORDER-TOP: white 1px inset;
+    FONT-SIZE: 11px;
+    BORDER-LEFT: white 1px inset;
+    COLOR: #000000;
+    BORDER-BOTTOM: black 1px inset;
+    FONT-FAMILY: Verdana, Tahoma,  Arial, Helvetica,Univers,Zurich BT;
+    BACKGROUND-COLOR: #ff8f05;
+	scrollbar-face-color: #FF8F05;
+	scrollbar-shadow-color: #0;
+	scrollbar-highlight-color: #FF8F05;
+	scrollbar-3dlight-color: #000000;
+	scrollbar-darkshadow-color: #FF8F05;
+	scrollbar-track-color: #FF8F05;
+	scrollbar-arrow-color: #000000;
+    
+}
+INPUT.CheckBox
+{
+    FONT-SIZE: 11px;
+    COLOR: #ff8f05;
+    FONT-FAMILY: Verdana, Tahoma,  Arial, Helvetica,Univers,Zurich BT;
+    BACKGROUND-COLOR: transparent;
+}
+
+
+INPUT.Button
+{
+    BORDER-RIGHT: black 1px inset;
+    BORDER-TOP: white 1px inset;
+    FONT-SIZE: 11px;
+    BORDER-LEFT: white 1px inset;
+    COLOR: #000000;
+    BORDER-BOTTOM: black 1px inset;
+    FONT-FAMILY: Verdana, Tahoma,  Arial, Helvetica,Univers,Zurich BT;
+    BACKGROUND-COLOR: #ff8f05
+}
+A.inv
+{
+    FONT-SIZE: 15px;
+    COLOR: #2A2D2A;
+    FONT-FAMILY: Verdana, Tahoma,  Arial, Helvetica,Univers,Zurich BT;
+    TEXT-DECORATION: none
+}
+A.inv:visited
+{
+    FONT-SIZE: 15px;
+    COLOR: #2A2D2A;
+    FONT-FAMILY: Verdana, Tahoma,  Arial, Helvetica,Univers,Zurich BT;
+    TEXT-DECORATION: none
+}
+A.inv:unknown
+{
+    FONT-SIZE: 15px;
+    COLOR: #2A2D2A;
+    FONT-FAMILY: Verdana, Tahoma,  Arial, Helvetica,Univers,Zurich BT;
+    TEXT-DECORATION: none
+}
+A.inv:hover
+{
+    FONT-SIZE: 15px;
+    COLOR: #FF000C;
+    FONT-FAMILY: Verdana, Tahoma,  Arial, Helvetica,Univers,Zurich BT;
+    TEXT-DECORATION: underline
+}
+
+TD.a
+{
+    FONT-SIZE: 15px;
+    COLOR: #00000;
+    FONT-FAMILY: Verdana, Tahoma,  Arial, Helvetica,Univers,Zurich BT;
+    TEXT-DECORATION: none
+}
